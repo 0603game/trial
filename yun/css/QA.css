@@ -19,55 +19,11 @@ html, body{
 
 .Q{
     position: absolute;
-    top: 25vh;
-    left: 25vw;
+    margin: auto;
     width: 50vw;
     height: 50vh;
     z-index: 16;
-    font-size: 2vw;
-}
-
-.Q1{
-  position: absolute;
-  top: -2vh;
-  left: 14vw;
-  z-index: 16;
-}
-
-.que{
-  font-size: 2.5vw;
-}
-
-.Q2{
-  position: absolute;
-  top: 45vh;
-  left: 17.5vw;
-  z-index: 16;
-  text-align: center;
-}
-
-.Q2jpg{
-    position: absolute;
-    top: 0vh;
-    left: 13vw;
-    width: 22.5vw;
-    z-index: 16;
-}
-
-.Q3{
-  position: absolute;
-  top: -2vh;
-  left: 6vw;
-  z-index: 16;
-  text-align: center;
-}
-
-.Q4{
-  position: absolute;
-  top: 5vh;
-  left: 13vw;
-  z-index: 16;
-  text-align: center;
+    font-size: 5vw;
 }
 
 .paper{
