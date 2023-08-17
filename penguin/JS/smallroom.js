@@ -83,7 +83,7 @@ $(document).ready(function(){
     $(".food").click(
         function(){
             fadeIn();
-            var str = ["「你想幹嘛？", "不准搶我的食物！！！」"];
+            var str = ["「你想幹嘛？", "不准動我的食物！！！」"];
             text(str);
         }
     );
