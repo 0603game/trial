@@ -146,7 +146,7 @@ $(document).ready(function(){
     $(".lbookcase").click(
         function(){
             fadeIn();
-            var str = ["你的腦中浮現一個聲音：", "「前方的區域，以後再來探索吧！」"];
+            var str = ["你的腦中浮現一個聲音：", "「前方的區域，以後再來探索吧！」", "*詳情請洽開學後的社課"];
             text(str);
         }
     );
@@ -154,7 +154,7 @@ $(document).ready(function(){
     $(".rbookcase").click(
         function(){
             fadeIn();
-            var str = ["你的腦中浮現一個聲音：", "「前方的區域，以後再來探索吧！」"];
+            var str = ["你的腦中浮現一個聲音：", "「前方的區域，以後再來探索吧！」", "*詳情請洽開學後的社課"];
             text(str);
         }
     );
@@ -162,7 +162,7 @@ $(document).ready(function(){
     $(".fish").click(
         function(){
             fadeIn();
-            var str = ["你的腦中浮現一個聲音：", "「前方的區域，以後再來探索吧！」"];
+            var str = ["你的腦中浮現一個聲音：", "「前方的區域，以後再來探索吧！」", "*詳情請洽開學後的社課"];
             text(str);
         }
     );
