@@ -83,7 +83,7 @@ $(document).ready(function(){
     $(".food").click(
         function(){
             fadeIn();
-            var str = ["看起來很好吃的食物，說起來我多久沒吃東西了呢？", "糟糕，肚子開始餓了……", "偷拿一個，應該不會怎樣吧？", "可是萬一裡面下了毒，我會不會直接死在這？", "算了，還是不要隨便亂動好了"];
+            var str = ["「你想幹嘛？", "不准搶我的食物！！！」"];
             text(str);
         }
     );
@@ -146,7 +146,7 @@ $(document).ready(function(){
     $(".lbookcase").click(
         function(){
             fadeIn();
-            var str = ["你的腦中浮現一個聲音：", "「前面的區域，以後再來探索吧！」"];
+            var str = ["你的腦中浮現一個聲音：", "「前方的區域，以後再來探索吧！」"];
             text(str);
         }
     );
@@ -154,7 +154,7 @@ $(document).ready(function(){
     $(".rbookcase").click(
         function(){
             fadeIn();
-            var str = ["你的腦中浮現一個聲音：", "「前面的區域，以後再來探索吧！」"];
+            var str = ["你的腦中浮現一個聲音：", "「前方的區域，以後再來探索吧！」"];
             text(str);
         }
     );
@@ -162,7 +162,7 @@ $(document).ready(function(){
     $(".fish").click(
         function(){
             fadeIn();
-            var str = ["你的腦中浮現一個聲音：", "「前面的區域，以後再來探索吧！」"];
+            var str = ["你的腦中浮現一個聲音：", "「前方的區域，以後再來探索吧！」"];
             text(str);
         }
     );
