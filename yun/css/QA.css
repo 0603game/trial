@@ -19,11 +19,12 @@ html, body{
 
 .Q{
     position: absolute;
-    margin: auto;
+    left: 45vw;
+    top: 40vh;
     width: 50vw;
     height: 50vh;
     z-index: 16;
-    font-size: 5vw;
+    font-size: 10vw;
 }
 
 .paper{
